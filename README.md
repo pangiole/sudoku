@@ -14,3 +14,11 @@ Just run Apache Maven as follows
 ```sh
 $ mvn clean install
 ```
+
+
+## run
+Just use the provided script as follows:
+
+```
+$ ./run.sh ./src/test/resources/valid.csv
+```

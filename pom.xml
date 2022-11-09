@@ -92,7 +92,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>pangiole.SudokuApp</mainClass>
+              <mainClass>pangiole.sudoku.SudokuValidatorApp</mainClass>
             </manifest>
           </archive>
         </configuration>
